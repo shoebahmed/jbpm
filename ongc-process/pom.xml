@@ -3,10 +3,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ongc.jbpm.process</groupId>
-  <artifactId>ongc-process</artifactId>
+  <artifactId>ongc-process1</artifactId>
   <version>1.0</version>
   <packaging>kjar</packaging>
-  <name>ongc-process</name>
+  <name>ongc-process1</name>
   <repositories>
     <repository>
       <id>guvnor-m2-repo</id>
